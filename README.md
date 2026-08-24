@@ -36,3 +36,4 @@ Repo: https://github.com/loma555/gruzgame05
 git config user.email "lomariss556j@rambler.ru"
 git config user.name "loma555"
 ```
+2
